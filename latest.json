@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "8.0.29",
-  "apkUrl": "https://github.com/hsm20001026-create/snaptrim-updates/releases/download/v8.0.29/snaptrim-8.0.29.apk",
-  "notes": "처리 중이면 뒤로가기·최근 앱·공유로 열어도 바로 PiP로 들어가요 · 보고창은 ⓘ 뒤에 숨기고, 업데이트가 있으면 ‘자동 업그레이드 중… n%’ 배너가 바로 떠요",
-  "sha256": "49e84737ec277e0480a6292365e5e374c07cb95028b91e8aa0b7b2bcf66dc2b2"
+  "versionCode": 30,
+  "versionName": "8.0.30",
+  "apkUrl": "https://github.com/hsm20001026-create/snaptrim-updates/releases/download/v8.0.30/snaptrim-8.0.30.apk",
+  "notes": "왼쪽 아래 아이디·음악 글자를 글자 모양대로만 지워서 근처 구두·발·바닥이 덜 지워져요 · 구두 앞코를 로고로 잘못 지우던 문제, 거울 테를 버튼으로 지우던 문제 수정 · 캡션 앞 컬러 이모지(하트 등)까지 지워요",
+  "sha256": "6943b57bc3100c63f92d91cdeeca5e9eeb59d9628d0712a6fb461230b305de31"
 }
