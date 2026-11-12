@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "8.0.32",
-  "apkUrl": "https://github.com/hsm20001026-create/snaptrim-updates/releases/download/v8.0.32/snaptrim-8.0.32.apk",
-  "notes": "처리한 사진이 자동으로 이전내역에 남아요 · 첫 화면 \"이전내역보기\"에서 지난 작업을 다시 열고 한 장씩 또는 모두 저장 · 앱이 꺼지거나 업데이트돼도 결과가 남아요",
-  "sha256": "aa326c0a5107e9b9a592af13f437e1a7f9b18e5e31f3ca0b00d6dbc489ec3cf2"
+  "versionCode": 33,
+  "versionName": "8.0.33",
+  "apkUrl": "https://github.com/hsm20001026-create/snaptrim-updates/releases/download/v8.0.33/snaptrim-8.0.33.apk",
+  "notes": "처리가 끝난 사진은 바로 한 장씩 \"💾 저장\" 가능(나머지 처리 중에도) · 모두 저장은 이미 저장한 사진을 건너뛰어요 · 작은 창(PiP) 중에 아이콘을 눌러도 전체 화면으로 열려요",
+  "sha256": "35175a12ce4d082cb3fcd7f38fa34f648b12c034bac52aa87067d4190ad5e542"
 }
